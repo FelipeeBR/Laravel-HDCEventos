@@ -7,5 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Sobre
+<p align="center">
+    Este repositório apresenta um sistema desenvolvido com o framework Laravel, onde foram aplicados conceitos fundamentais para a criação de sistemas robustos e escaláveis. Entre os principais itens abordados estão o padrão MVC, uso de migrations, autenticação de usuários, recuperação de dados do banco de dados, relações entre modelos (como Many-to-Many) e funcionalidade de upload de imagens.
+</p>
 
+## Funcionalidades
+- Criar Evento: Imagem, Titulo, Data, Cidade, Descrição.
+- Atualizar Evento.
+- Visualisar Evento.
+- Deletar Evento.
+- Participar de Eventos.
+- Pesquisar por Eventos.
